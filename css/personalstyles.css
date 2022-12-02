@@ -1,0 +1,111 @@
+body {
+    background-color:rgb(160, 156, 156);
+}
+h1 {
+    color:white;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    font-size: 5em;
+}
+
+nav {
+
+    text-align: center;
+
+    background-color: rgb(81, 81, 150);
+
+    overflow: hidden;
+
+    width: 14%;
+
+    position:fixed;
+
+    top: 0px;
+
+}
+
+nav a {
+
+    color: white;
+
+    display:block;
+
+    float:left;
+
+    text-align:center;
+
+    padding:12px 16px;
+
+    text-decoration:none;
+    
+}
+
+nav a:hover {
+
+    background-color: green;
+
+}
+
+h2 {
+
+    text-align: center;
+
+}
+
+ul {
+    font-family: 'Arial', serif;
+    color: rgb(75, 73, 71);
+} 
+ol {
+    margin-left: auto ;
+    
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+}
+
+.listfonts {
+    font-size: 25px;
+    
+}
+
+.navfont {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+img {
+    margin: auto;
+    display: block;
+}
+
+.Cryingfont
+{
+    text-align: center;
+    font-size: 25px;
+    color: black;
+}
+
+.bruhfont {
+    text-align: center;
+}
+
+iframe
+{
+    margin: auto;
+    display: block;
+}
+
+.tableauPlaceholder
+{
+    margin: auto;
+    display: block;
+}
+
+div.centerlist {
+    text-align: center;
+}
+
+ol.center {
+    display: inline-block;
+    text-align: left;
+    list-style-position: inside
+}
